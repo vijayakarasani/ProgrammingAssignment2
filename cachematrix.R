@@ -46,6 +46,9 @@ cacheSolve <- function(x, ...) {
 ##cacheSolve(m2)
 ## Retrieving from the cache in the second run
 #cacheSolve(m2)
+#     [,1] [,2]
+#[1,]   -2  1.5
+#[2,]    1 -0.5
 ##getting cached data.....
 ##     [,1] [,2]
 ##[1,]   -2  1.5
